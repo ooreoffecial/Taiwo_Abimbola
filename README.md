@@ -61,7 +61,7 @@
 </p>
 <ul>
   <li><strong>Frontend Fundamentals:</strong> HTML (Advanced), CSS (Proficient, including Animations & Transitions), JavaScript (Growing proficiency in DOM manipulation, event handling, and creative coding)</li>
-  <li><strong>Design Principles:</strong> [Mention any design knowledge like basic UI/UX principles]</li>
-  <li><strong>Tools & Technologies:</strong> [Mention tools like Git, VS Code, etc.]</li>
+  <li><strong>Design Principles:</strong> UI/UX, CRO, Graphic</li>
+  <li><strong>Tools & Technologies:</strong> Git, VS Code, Figma, Canva, Adobe </li>
   <li><strong>Soft Skills:</strong> Creative Problem Solving, Communication, Teamwork, Strong Drive to Learn</li>
 </ul>
