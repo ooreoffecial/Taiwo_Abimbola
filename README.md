@@ -33,7 +33,7 @@
   <summary>❤️ Passion & Inspiration</summary>
   <br>
   <p>
-    [Insert what you are passionate about and what inspires you in software engineering, perhaps highlighting your creative programming approach and your growing skills. For example: "The increasing power of CSS for complex styling and animations, combined with the dynamic possibilities of JavaScript, fuels my passion for creative programming and building truly immersive web experiences." ]
+    The increasing power of CSS for complex styling and animations, combined with the dynamic possibilities of JavaScript, fuels my passion for creative programming and building truly immersive web experiences.
   </p>
   <p>
     My aim is to [Insert your aim here, potentially focusing on leveraging your advancing skills. For example: "leverage my rapidly advancing skills in HTML, CSS, and JavaScript to contribute innovative and creatively programmed frontend solutions to impactful projects."].
